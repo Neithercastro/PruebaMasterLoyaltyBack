@@ -1,0 +1,11 @@
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Entities\bin\Debug\net8.0\PruebaMasterLoyalty.Entities.deps.json
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Entities\bin\Debug\net8.0\PruebaMasterLoyalty.Entities.dll
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Entities\bin\Debug\net8.0\PruebaMasterLoyalty.Entities.pdb
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Entities\obj\Debug\net8.0\PruebaMasterLoyalty.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Entities\obj\Debug\net8.0\PruebaMasterLoyalty.Entities.AssemblyInfoInputs.cache
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Entities\obj\Debug\net8.0\PruebaMasterLoyalty.Entities.AssemblyInfo.cs
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Entities\obj\Debug\net8.0\PruebaMasterLoyalty.Entities.csproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Entities\obj\Debug\net8.0\PruebaMasterLoyalty.Entities.dll
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Entities\obj\Debug\net8.0\refint\PruebaMasterLoyalty.Entities.dll
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Entities\obj\Debug\net8.0\PruebaMasterLoyalty.Entities.pdb
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Entities\obj\Debug\net8.0\ref\PruebaMasterLoyalty.Entities.dll

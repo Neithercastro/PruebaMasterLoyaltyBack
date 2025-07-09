@@ -1,0 +1,17 @@
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\bin\Debug\net8.0\PruebaMasterLoyalty.Data.deps.json
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\bin\Debug\net8.0\PruebaMasterLoyalty.Data.runtimeconfig.json
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\bin\Debug\net8.0\PruebaMasterLoyalty.Data.dll
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\bin\Debug\net8.0\PruebaMasterLoyalty.Data.pdb
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\bin\Debug\net8.0\PruebaMasterLoyalty.Entities.dll
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\bin\Debug\net8.0\PruebaMasterLoyalty.Entities.pdb
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\obj\Debug\net8.0\PruebaMasterLoyalty.Data.csproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\obj\Debug\net8.0\PruebaMasterLoyalty.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\obj\Debug\net8.0\PruebaMasterLoyalty.Data.AssemblyInfoInputs.cache
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\obj\Debug\net8.0\PruebaMasterLoyalty.Data.AssemblyInfo.cs
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\obj\Debug\net8.0\PruebaMasterLoyalty.Data.csproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\obj\Debug\net8.0\PruebaMa.DDABF37B.Up2Date
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\obj\Debug\net8.0\PruebaMasterLoyalty.Data.dll
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\obj\Debug\net8.0\refint\PruebaMasterLoyalty.Data.dll
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\obj\Debug\net8.0\PruebaMasterLoyalty.Data.pdb
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\obj\Debug\net8.0\PruebaMasterLoyalty.Data.genruntimeconfig.cache
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\obj\Debug\net8.0\ref\PruebaMasterLoyalty.Data.dll

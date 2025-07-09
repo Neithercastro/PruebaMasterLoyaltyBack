@@ -1,0 +1,17 @@
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\bin\Debug\net8.0\PruebaMasterLoyalty.Business.deps.json
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\bin\Debug\net8.0\PruebaMasterLoyalty.Business.dll
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\bin\Debug\net8.0\PruebaMasterLoyalty.Business.pdb
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\bin\Debug\net8.0\PruebaMasterLoyalty.Data.dll
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\bin\Debug\net8.0\PruebaMasterLoyalty.Entities.dll
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\bin\Debug\net8.0\PruebaMasterLoyalty.Data.pdb
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\bin\Debug\net8.0\PruebaMasterLoyalty.Entities.pdb
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\obj\Debug\net8.0\PruebaMasterLoyalty.Business.csproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\obj\Debug\net8.0\PruebaMasterLoyalty.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\obj\Debug\net8.0\PruebaMasterLoyalty.Business.AssemblyInfoInputs.cache
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\obj\Debug\net8.0\PruebaMasterLoyalty.Business.AssemblyInfo.cs
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\obj\Debug\net8.0\PruebaMasterLoyalty.Business.csproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\obj\Debug\net8.0\PruebaMa.8E93CDA4.Up2Date
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\obj\Debug\net8.0\PruebaMasterLoyalty.Business.dll
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\obj\Debug\net8.0\refint\PruebaMasterLoyalty.Business.dll
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\obj\Debug\net8.0\PruebaMasterLoyalty.Business.pdb
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\obj\Debug\net8.0\ref\PruebaMasterLoyalty.Business.dll
