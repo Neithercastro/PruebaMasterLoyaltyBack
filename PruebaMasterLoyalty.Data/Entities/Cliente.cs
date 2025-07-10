@@ -18,4 +18,6 @@ public partial class Cliente
     public virtual ICollection<CarritoCompra> CarritoCompras { get; set; } = new List<CarritoCompra>();
 
     public virtual Usuario IdUsuarioNavigation { get; set; } = null!;
+
+    public virtual ICollection<Venta> Venta { get; set; } = new List<Venta>();
 }

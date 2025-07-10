@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
+using PruebaMasterLoyalty.Business.Interfaces;
 using PruebaMasterLoyalty.Data.Entities;
 using PruebaMasterLoyalty.Entities.DTOs;
 using System;
@@ -12,7 +13,7 @@ using System.Threading.Tasks;
 
 namespace PruebaMasterLoyalty.Business.Services
 {
-    public class AuthService
+    public class AuthService : IAuthService
     {
         private readonly AppDbContext _context;
         private readonly IConfiguration _config;
@@ -59,5 +60,6 @@ namespace PruebaMasterLoyalty.Business.Services
 
             return new JwtSecurityTokenHandler().WriteToken(token);
         }
+
     }
 }

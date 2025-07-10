@@ -27,6 +27,10 @@ public partial class AppDbContext : DbContext
 
     public virtual DbSet<Usuario> Usuarios { get; set; }
 
+    public virtual DbSet<Venta> Ventas { get; set; }
+
+    public virtual DbSet<VentasDetalle> VentasDetalles { get; set; }
+
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -34,9 +38,13 @@ public partial class AppDbContext : DbContext
         {
             entity.HasKey(e => e.IdArticulo);
 
+            entity.Property(e => e.Codigo)
+                .HasMaxLength(50)
+                .IsUnicode(false);
             entity.Property(e => e.Descripcion)
                 .HasMaxLength(512)
                 .IsUnicode(false);
+            entity.Property(e => e.FechaAlta).HasColumnType("datetime");
             entity.Property(e => e.Imagen)
                 .HasMaxLength(512)
                 .IsUnicode(false);
@@ -134,6 +142,39 @@ public partial class AppDbContext : DbContext
                 .HasMaxLength(50)
                 .IsUnicode(false)
                 .HasColumnName("Usuario");
+        });
+
+        modelBuilder.Entity<Venta>(entity =>
+        {
+            entity.HasKey(e => e.IdVenta);
+
+            entity.Property(e => e.FechaVenta).HasColumnType("datetime");
+
+            entity.HasOne(d => d.IdClienteNavigation).WithMany(p => p.Venta)
+                .HasForeignKey(d => d.IdCliente)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_Ventas_Clientes");
+        });
+
+        modelBuilder.Entity<VentasDetalle>(entity =>
+        {
+            entity.HasKey(e => e.IdVentasDetalle);
+
+            entity.ToTable("VentasDetalle");
+
+            entity.Property(e => e.Producto)
+                .HasMaxLength(50)
+                .IsUnicode(false);
+
+            entity.HasOne(d => d.IdArticuloNavigation).WithMany(p => p.VentasDetalles)
+                .HasForeignKey(d => d.IdArticulo)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_VentasDetalle_Articulos");
+
+            entity.HasOne(d => d.IdVentaNavigation).WithMany(p => p.VentasDetalles)
+                .HasForeignKey(d => d.IdVenta)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_VentasDetalle_Ventas");
         });
 
         OnModelCreatingPartial(modelBuilder);

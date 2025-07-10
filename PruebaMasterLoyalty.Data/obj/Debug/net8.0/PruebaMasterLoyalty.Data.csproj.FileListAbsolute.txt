@@ -15,3 +15,4 @@ C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\obj\Deb
 C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\obj\Debug\net8.0\PruebaMasterLoyalty.Data.pdb
 C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\obj\Debug\net8.0\PruebaMasterLoyalty.Data.genruntimeconfig.cache
 C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\obj\Debug\net8.0\ref\PruebaMasterLoyalty.Data.dll
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Data\obj\Debug\net8.0\PruebaMasterLoyalty.Data.sourcelink.json

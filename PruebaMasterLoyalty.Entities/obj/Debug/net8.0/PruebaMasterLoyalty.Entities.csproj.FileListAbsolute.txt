@@ -9,3 +9,5 @@ C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Entities\obj
 C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Entities\obj\Debug\net8.0\refint\PruebaMasterLoyalty.Entities.dll
 C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Entities\obj\Debug\net8.0\PruebaMasterLoyalty.Entities.pdb
 C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Entities\obj\Debug\net8.0\ref\PruebaMasterLoyalty.Entities.dll
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Entities\obj\Debug\net8.0\PruebaMasterLoyalty.Entities.sourcelink.json
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Entities\obj\Debug\net8.0\PruebaMasterLoyalty.Entities.csproj.AssemblyReference.cache

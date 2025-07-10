@@ -15,3 +15,4 @@ C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\obj
 C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\obj\Debug\net8.0\refint\PruebaMasterLoyalty.Business.dll
 C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\obj\Debug\net8.0\PruebaMasterLoyalty.Business.pdb
 C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\obj\Debug\net8.0\ref\PruebaMasterLoyalty.Business.dll
+C:\Users\oswal\source\repos\PruebaMasterLoyalty\PruebaMasterLoyalty.Business\obj\Debug\net8.0\PruebaMasterLoyalty.Business.sourcelink.json

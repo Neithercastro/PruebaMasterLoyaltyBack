@@ -1,4 +1,5 @@
-﻿using PruebaMasterLoyalty.Data.Entities;
+﻿using PruebaMasterLoyalty.Business.Interfaces;
+using PruebaMasterLoyalty.Data.Entities;
 using PruebaMasterLoyalty.Entities.DTOs;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace PruebaMasterLoyalty.Business.Services
 {
-    public class ClienteService
+    public class ClienteService : IClienteService
     {
         private readonly AppDbContext _context;
 
