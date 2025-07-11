@@ -28,10 +28,12 @@ namespace PruebaMasterLoyalty.Business.Services
         {
             var user = _context.Usuarios.FirstOrDefault(x => x.Usuario1 == dto.Usuario && x.Password == dto.Password);
             if (user == null) return null;
+            
 
             var token = GenerarToken(user);
             return new AuthResponseDTO
             {
+                Id = user.IdUsuario,
                 Usuario = user.Usuario1,
                 TipoUsuario = user.TipoUsuario,
                 Token = token

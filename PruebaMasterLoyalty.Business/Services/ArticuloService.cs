@@ -13,7 +13,7 @@ namespace PruebaMasterLoyalty.Business.Services
     public class ArticuloService : IArticuloService
     {
         private readonly AppDbContext _context;
-        private const int TamanoPagina = 10;
+        private const int TamanoPagina = 3;
 
         public ArticuloService(AppDbContext context)
         {
@@ -82,7 +82,9 @@ namespace PruebaMasterLoyalty.Business.Services
                     Descripcion = a.Descripcion,
                     Precio = a.Precio,
                     Imagen = a.Imagen,
-                    IdTienda = a.IdTienda
+                    IdTienda = a.IdTienda,
+                    Estado = a.Estado,
+                    Stock = a.Stock
                 })
                 .ToList();
 
@@ -95,7 +97,7 @@ namespace PruebaMasterLoyalty.Business.Services
             };
         }
 
-        //SELECT ARTICULOS X TIENDA
+        //SELECT ARTICULOS X TIENDA ACTIVOS PARA CLIENTES
         public PaginacionResponse<ArticuloDTO> ListarArticulosPorTienda(int idTienda, int pagina)
         {
             var query = _context.Articulos.Where(a => a.IdTienda == idTienda && a.Estado == true);
@@ -110,7 +112,9 @@ namespace PruebaMasterLoyalty.Business.Services
                     Descripcion = a.Descripcion,
                     Precio = a.Precio,
                     Imagen = a.Imagen,
-                    IdTienda = a.IdTienda
+                    IdTienda = a.IdTienda,
+                    Estado = a.Estado,
+                    Stock = a.Stock
                 })
                 .ToList();
 
@@ -123,6 +127,7 @@ namespace PruebaMasterLoyalty.Business.Services
             };
         }
 
+        //SELECT TODOS LOS ARTICULOS X TIENDA ACTIVOS E INACTIVOS
         public PaginacionResponse<ArticuloDTO> ListarTodosArticulosPorTienda(int idTienda, int pagina)
         {
             var query = _context.Articulos.Where(a => a.IdTienda == idTienda);
@@ -137,7 +142,9 @@ namespace PruebaMasterLoyalty.Business.Services
                     Descripcion = a.Descripcion,
                     Precio = a.Precio,
                     Imagen = a.Imagen,
-                    IdTienda = a.IdTienda
+                    IdTienda = a.IdTienda,
+                    Estado = a.Estado,
+                    Stock = a.Stock
                 })
                 .ToList();
 

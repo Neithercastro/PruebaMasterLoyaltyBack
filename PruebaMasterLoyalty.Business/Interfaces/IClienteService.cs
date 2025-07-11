@@ -10,6 +10,7 @@ namespace PruebaMasterLoyalty.Business.Interfaces
     public interface IClienteService
     {
         void RegistrarCliente(ClienteRegistroDTO dto);
+        ClienteDTO? ObtenerClientePorUsuario(int idUsuario);
 
     }
 }

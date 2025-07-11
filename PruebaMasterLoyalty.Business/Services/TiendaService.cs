@@ -12,6 +12,7 @@ namespace PruebaMasterLoyalty.Business.Services
     public class TiendaService : ITiendaService
     {
         private readonly AppDbContext _context;
+        private const int TamanoPagina = 3;
 
         public TiendaService(AppDbContext context)
         {
@@ -47,6 +48,53 @@ namespace PruebaMasterLoyalty.Business.Services
             _context.Tiendas.Add(tienda);
             _context.SaveChanges();
         }
+
+        // SELECT TIENDAS
+        public PaginacionResponse<TiendaDTO> ListarTiendas(int pagina)
+        {
+            var query = _context.Tiendas
+                .Where(t => t.Articulos.Any(a => a.Estado == true)) // ✅ condición correcta
+                .AsQueryable();
+
+            var total = query.Count();
+
+            var datos = query
+                .Skip((pagina - 1) * TamanoPagina)
+                .Take(TamanoPagina)
+                .Select(t => new TiendaDTO
+                {
+                    IdTienda = t.IdTienda,
+                    Sucursal = t.Sucursal,
+                    Direccion = t.Direccion
+                })
+                .ToList();
+
+            return new PaginacionResponse<TiendaDTO>
+            {
+                Datos = datos,
+                TotalRegistros = total,
+                PaginaActual = pagina,
+                TotalPaginas = (int)Math.Ceiling((double)total / TamanoPagina)
+            };
+        }
+
+        //OBTENER TIENDA POR ID USUARIO
+        public TiendaDTO? ObtenerTiendaPorUsuario(int idUsuario)
+        {
+            var tienda = _context.Tiendas
+                .Where(t => t.IdUsuario == idUsuario)
+                .Select(t => new TiendaDTO
+                {
+                    IdTienda = t.IdTienda,
+                    Sucursal = t.Sucursal,
+                    Direccion = t.Direccion
+                })
+                .FirstOrDefault();
+
+            return tienda;
+        }
+
+
 
 
     }

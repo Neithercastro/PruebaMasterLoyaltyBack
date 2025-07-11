@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PruebaMasterLoyalty.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08fa0ed72f8d4c672a486ecd79e6b132684af3be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7af8cdadde03229f1895d5822fc68a404242881c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PruebaMasterLoyalty.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PruebaMasterLoyalty.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

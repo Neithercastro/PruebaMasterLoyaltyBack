@@ -11,6 +11,7 @@ namespace PruebaMasterLoyalty.Entities.DTOs
         public int IdArticulo { get; set; }
         public string Descripcion { get; set; }
         public decimal Precio { get; set; }
+        public int Stock { get; set; }
         public string Imagen { get; set; }
         public int IdTienda { get; set; }
         public bool Estado { get; set; }

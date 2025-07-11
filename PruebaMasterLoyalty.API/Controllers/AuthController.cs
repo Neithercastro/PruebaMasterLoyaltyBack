@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using PruebaMasterLoyalty.Business.Interfaces;
 using PruebaMasterLoyalty.Business.Services;
 using PruebaMasterLoyalty.Entities.DTOs;
 
@@ -9,9 +10,9 @@ namespace PruebaMasterLoyalty.API.Controllers
     [ApiController]
     public class AuthController : ControllerBase
     {
-        private readonly AuthService _authService;
+        private readonly IAuthService _authService;
 
-        public AuthController(AuthService authService)
+        public AuthController(IAuthService authService)
         {
             _authService = authService;
         }

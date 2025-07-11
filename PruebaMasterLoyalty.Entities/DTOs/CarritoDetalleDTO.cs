@@ -15,5 +15,6 @@ namespace PruebaMasterLoyalty.Entities.DTOs
         public int Cantidad { get; set; }
         public decimal Subtotal { get; set; }
         public string Imagen { get; set; }
+        public int Stock { get; set; }
     }
 }

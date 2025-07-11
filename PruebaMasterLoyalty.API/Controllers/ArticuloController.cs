@@ -15,7 +15,7 @@ namespace PruebaMasterLoyalty.API.Controllers
         private readonly IImagenService _imagenService;
 
 
-        public ArticuloController(ArticuloService service, IImagenService imagenService)
+        public ArticuloController(IArticuloService service, IImagenService imagenService)
         {
             _articuloservice = service;
             _imagenService = imagenService;
@@ -48,7 +48,7 @@ namespace PruebaMasterLoyalty.API.Controllers
 
                 _articuloservice.RegistrarProducto(dto);
 
-                return Ok("Producto registrado correctamente.");
+                return Ok(new { mensaje = "Producto registrado correctamente." });
             }
             catch (Exception ex)
             {
@@ -81,7 +81,7 @@ namespace PruebaMasterLoyalty.API.Controllers
 
                 _articuloservice.EditarProducto(dto);
 
-                return Ok("Articulo actualizado correctamente.");
+                return Ok(new { mensaje = "Articulo actualizado correctamente." });
             }
             catch (Exception ex)
             {

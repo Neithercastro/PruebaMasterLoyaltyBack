@@ -16,11 +16,24 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// Configurar CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowFrontend",
+        policy =>
+        {
+            policy.WithOrigins("http://localhost:4200") // o el dominio de tu frontend
+                  .AllowAnyHeader()
+                  .AllowAnyMethod();
+        });
+});
+
+
 //SERVICIO PARA LA CONEXION A BASE DE DATOS
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-//SERVICIOS DE PARA LOS CONTROLADORESW
+//SERVICIOS PARA LOS CONTROLADORES
 builder.Services.AddScoped<IArticuloService, ArticuloService>();
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<ICarritoService, CarritoService>();
@@ -31,7 +44,7 @@ builder.Services.AddScoped<ITiendaService, TiendaService>();
 builder.Services.AddScoped<IVentaService, VentaService>();
 
 
-
+//DECLARACION DE CREDENCIALES DE AUTENTICACION
 var jwtSettings = builder.Configuration.GetSection("JwtSettings");
 builder.Services.AddAuthentication(options =>
 {
@@ -64,6 +77,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseCors("AllowFrontend"); 
 app.UseAuthentication();
 app.UseAuthorization();
 

@@ -70,6 +70,7 @@ namespace PruebaMasterLoyalty.Business.Services
 
             detalle.Cantidad = dto.NuevaCantidad;
             detalle.Subtotal = detalle.Cantidad * detalle.Precio;
+            _context.SaveChanges();
 
             var carrito = _context.CarritoCompras.FirstOrDefault(c => c.IdCarritoCompras == detalle.IdCarritoCompras);
             carrito.Total = _context.CarritoComprasDetalles
@@ -124,7 +125,13 @@ namespace PruebaMasterLoyalty.Business.Services
                     Imagen = _context.Articulos
                         .Where(a => a.IdArticulo == d.IdArticulo)
                         .Select(a => a.Imagen)
+                        .FirstOrDefault(),
+
+                    Stock = _context.Articulos // ✅ Aquí obtienes el stock
+                        .Where(a => a.IdArticulo == d.IdArticulo)
+                        .Select(a => a.Stock)
                         .FirstOrDefault()
+
                 })
                 .ToList();
 
@@ -184,6 +191,16 @@ namespace PruebaMasterLoyalty.Business.Services
 
             _context.SaveChanges();
         }
+
+        private void RecalcularTotal(CarritoCompra carrito)
+        {
+            carrito.Total = _context.CarritoComprasDetalles
+                .Where(d => d.IdCarritoCompras == carrito.IdCarritoCompras)
+                .Sum(d => d.Subtotal);
+
+            _context.Entry(carrito).Property(c => c.Total).IsModified = true;
+        }
+
 
 
     }

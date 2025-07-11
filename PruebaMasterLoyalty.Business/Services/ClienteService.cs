@@ -46,5 +46,23 @@ namespace PruebaMasterLoyalty.Business.Services
             _context.Clientes.Add(cliente);
             _context.SaveChanges();
         }
+
+        //OBTENER CLIENTE POR ID USUARIO
+        public ClienteDTO? ObtenerClientePorUsuario(int idUsuario)
+        {
+            var cliente = _context.Clientes
+                .Where(t => t.IdUsuario == idUsuario)
+                .Select(t => new ClienteDTO
+                {
+                    IdCliente = t.IdCliente,
+                    IdUsuario = t.IdUsuario,
+                    Nombre    = t.Nombre,
+                    Apellidos = t.Apellidos,
+                    Direccion = t.Direccion
+                })
+                .FirstOrDefault();
+
+            return cliente;
+        }
     }
 }

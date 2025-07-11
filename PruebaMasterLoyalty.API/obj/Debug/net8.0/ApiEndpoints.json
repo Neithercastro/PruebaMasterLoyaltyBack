@@ -247,6 +247,22 @@
   },
   {
     "ContainingType": "PruebaMasterLoyalty.API.Controllers.ClienteController",
+    "Method": "ObtenerClientePorUsuario",
+    "RelativePath": "api/Cliente/PorUsuario/{idUsuario}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PruebaMasterLoyalty.API.Controllers.ClienteController",
     "Method": "Registrar",
     "RelativePath": "api/Cliente/registro",
     "HttpMethod": "POST",
@@ -256,6 +272,38 @@
       {
         "Name": "dto",
         "Type": "PruebaMasterLoyalty.Entities.DTOs.ClienteRegistroDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PruebaMasterLoyalty.API.Controllers.TiendaController",
+    "Method": "ListarTiendas",
+    "RelativePath": "api/Tienda/Listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pagina",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PruebaMasterLoyalty.API.Controllers.TiendaController",
+    "Method": "ObtenerTiendaPorUsuario",
+    "RelativePath": "api/Tienda/PorUsuario/{idUsuario}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],

@@ -27,21 +27,21 @@ namespace PruebaMasterLoyalty.API.Controllers
         public IActionResult AgregarProducto([FromBody] AgregarProductoCarritoDTO dto)
         {
             _carritoService.AgregarProducto(dto);
-            return Ok("Producto agregado al carrito.");
+            return Ok(new { mensaje = "Producto agregado al carrito." });
         }
 
         [HttpPut("Actualizar-Cantidad")]
         public IActionResult ActualizarCantidad([FromBody] ActualizarCantidadCarritoDTO dto)
         {
             _carritoService.ActualizarCantidad(dto);
-            return Ok("Cantidad actualizada.");
+            return Ok(new { mensaje = "Cantidad actualizada." });
         }
 
         [HttpDelete("Eliminar")]
         public IActionResult EliminarProducto([FromBody] EliminarProductoCarritoDTO dto)
         {
             _carritoService.EliminarProducto(dto);
-            return Ok("Producto eliminado del carrito.");
+            return Ok(new { mensaje = "Producto eliminado del carrito." });
         }
 
 
@@ -51,7 +51,7 @@ namespace PruebaMasterLoyalty.API.Controllers
             try
             {
                 _carritoService.FinalizarCompra(idCliente);
-                return Ok("Compra realizada con éxito.");
+                return Ok(new { mensaje = "Compra realizada con éxito." });
             }
             catch (Exception ex)
             {

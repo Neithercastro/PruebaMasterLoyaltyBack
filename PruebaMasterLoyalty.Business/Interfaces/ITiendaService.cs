@@ -10,5 +10,8 @@ namespace PruebaMasterLoyalty.Business.Interfaces
     public interface ITiendaService
     {
         void RegistrarTienda(TiendaRegistroDTO dto);
+        PaginacionResponse<TiendaDTO> ListarTiendas(int pagina);
+        TiendaDTO? ObtenerTiendaPorUsuario(int idUsuario);
+
     }
 }
