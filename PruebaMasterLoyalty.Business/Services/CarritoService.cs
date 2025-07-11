@@ -40,6 +40,7 @@ namespace PruebaMasterLoyalty.Business.Services
             {
                 detalle.Cantidad += dto.Cantidad;
                 detalle.Subtotal = detalle.Cantidad * detalle.Precio;
+                _context.SaveChanges();
             }
             else
             {
@@ -54,6 +55,7 @@ namespace PruebaMasterLoyalty.Business.Services
                     Subtotal = dto.Precio * dto.Cantidad
                 };
                 _context.CarritoComprasDetalles.Add(detalle);
+                _context.SaveChanges();
             }
 
             carrito.Total = _context.CarritoComprasDetalles

@@ -3,6 +3,17 @@
   "WorkspaceRootPath": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{10B05529-EE4F-469D-9174-5E89E175AE03}|PruebaMasterLoyalty.Business\\PruebaMasterLoyalty.Business.csproj|c:\\users\\oswal\\source\\repos\\pruebamasterloyalty\\pruebamasterloyalty.business\\services\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B05529-EE4F-469D-9174-5E89E175AE03}|PruebaMasterLoyalty.Business\\PruebaMasterLoyalty.Business.csproj|solutionrelative:pruebamasterloyalty.business\\services\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\oswal\\OneDrive\\Documents\\PruebaTecnica_MasterLoyality\\BD_Tienda.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB55DD7-8929-4860-A1C3-BE653CD88804}|PruebaMasterLoyalty.API\\PruebaMasterLoyalty.API.csproj|c:\\users\\oswal\\source\\repos\\pruebamasterloyalty\\pruebamasterloyalty.api\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB55DD7-8929-4860-A1C3-BE653CD88804}|PruebaMasterLoyalty.API\\PruebaMasterLoyalty.API.csproj|solutionrelative:pruebamasterloyalty.api\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7FB55DD7-8929-4860-A1C3-BE653CD88804}|PruebaMasterLoyalty.API\\PruebaMasterLoyalty.API.csproj|c:\\users\\oswal\\source\\repos\\pruebamasterloyalty\\pruebamasterloyalty.api\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FB55DD7-8929-4860-A1C3-BE653CD88804}|PruebaMasterLoyalty.API\\PruebaMasterLoyalty.API.csproj|solutionrelative:pruebamasterloyalty.api\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,16 +38,8 @@
       "RelativeMoniker": "D:0:0:{7FB55DD7-8929-4860-A1C3-BE653CD88804}|PruebaMasterLoyalty.API\\PruebaMasterLoyalty.API.csproj|solutionrelative:pruebamasterloyalty.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FB55DD7-8929-4860-A1C3-BE653CD88804}|PruebaMasterLoyalty.API\\PruebaMasterLoyalty.API.csproj|c:\\users\\oswal\\source\\repos\\pruebamasterloyalty\\pruebamasterloyalty.api\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FB55DD7-8929-4860-A1C3-BE653CD88804}|PruebaMasterLoyalty.API\\PruebaMasterLoyalty.API.csproj|solutionrelative:pruebamasterloyalty.api\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10B05529-EE4F-469D-9174-5E89E175AE03}|PruebaMasterLoyalty.Business\\PruebaMasterLoyalty.Business.csproj|c:\\users\\oswal\\source\\repos\\pruebamasterloyalty\\pruebamasterloyalty.business\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10B05529-EE4F-469D-9174-5E89E175AE03}|PruebaMasterLoyalty.Business\\PruebaMasterLoyalty.Business.csproj|solutionrelative:pruebamasterloyalty.business\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B05529-EE4F-469D-9174-5E89E175AE03}|PruebaMasterLoyalty.Business\\PruebaMasterLoyalty.Business.csproj|c:\\users\\oswal\\source\\repos\\pruebamasterloyalty\\pruebamasterloyalty.business\\services\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B05529-EE4F-469D-9174-5E89E175AE03}|PruebaMasterLoyalty.Business\\PruebaMasterLoyalty.Business.csproj|solutionrelative:pruebamasterloyalty.business\\services\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{086089AE-070A-4744-89D1-664A0460B24C}|PruebaMasterLoyalty.Data\\PruebaMasterLoyalty.Data.csproj|c:\\users\\oswal\\source\\repos\\pruebamasterloyalty\\pruebamasterloyalty.data\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -161,6 +164,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{7FB55DD7-8929-4860-A1C3-BE653CD88804}|PruebaMasterLoyalty.API\\PruebaMasterLoyalty.API.csproj|c:\\users\\oswal\\source\\repos\\pruebamasterloyalty\\pruebamasterloyalty.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7FB55DD7-8929-4860-A1C3-BE653CD88804}|PruebaMasterLoyalty.API\\PruebaMasterLoyalty.API.csproj|solutionrelative:pruebamasterloyalty.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\oswal\\OneDrive\\Documents\\PruebaTecnica_MasterLoyality\\BD_Tienda.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -170,11 +176,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.API\\Program.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.API\\Program.cs",
@@ -187,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.API\\appsettings.json",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.API\\appsettings.json",
@@ -200,20 +206,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "CarritoService.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Business\\Services\\CarritoService.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Business\\Services\\CarritoService.cs",
               "ToolTip": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Business\\Services\\CarritoService.cs",
               "RelativeToolTip": "PruebaMasterLoyalty.Business\\Services\\CarritoService.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAcwE8AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwCoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T22:56:56.368Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "ICarritoService.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Business\\Interfaces\\ICarritoService.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Business\\Interfaces\\ICarritoService.cs",
@@ -226,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "CarritoController.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.API\\Controllers\\CarritoController.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.API\\Controllers\\CarritoController.cs",
@@ -239,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Data\\Entities\\AppDbContext.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Data\\Entities\\AppDbContext.cs",
@@ -252,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ArticuloDTO.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Entities\\DTOs\\ArticuloDTO.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Entities\\DTOs\\ArticuloDTO.cs",
@@ -265,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "RegistroProductoDTO.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Entities\\DTOs\\RegistroProductoDTO.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Entities\\DTOs\\RegistroProductoDTO.cs",
@@ -279,19 +286,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.API\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "PruebaMasterLoyalty.API\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.API\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "PruebaMasterLoyalty.API\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T06:32:36.789Z",
+              "Title": "BD_Tienda.sql ",
+              "DocumentMoniker": "C:\\Users\\oswal\\OneDrive\\Documents\\PruebaTecnica_MasterLoyality\\BD_Tienda.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documents\\PruebaTecnica_MasterLoyality\\BD_Tienda.sql",
+              "ToolTip": "C:\\Users\\oswal\\OneDrive\\Documents\\PruebaTecnica_MasterLoyality\\BD_Tienda.sql",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documents\\PruebaTecnica_MasterLoyality\\BD_Tienda.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-11T19:37:14.18Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "TiendaController.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.API\\Controllers\\TiendaController.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.API\\Controllers\\TiendaController.cs",
@@ -299,12 +305,36 @@
               "RelativeToolTip": "PruebaMasterLoyalty.API\\Controllers\\TiendaController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T16:46:55.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T16:46:55.001Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.API\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "PruebaMasterLoyalty.API\\Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.API\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "PruebaMasterLoyalty.API\\Controllers\\ArticuloController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADgvysAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T14:47:55.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.API\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "PruebaMasterLoyalty.API\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.API\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "PruebaMasterLoyalty.API\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:32:36.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ClienteDTO.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Entities\\DTOs\\ClienteDTO.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Entities\\DTOs\\ClienteDTO.cs",
@@ -312,12 +342,11 @@
               "RelativeToolTip": "PruebaMasterLoyalty.Entities\\DTOs\\ClienteDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T03:19:02.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T03:19:02.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "VentasController.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.API\\Controllers\\VentasController.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.API\\Controllers\\VentasController.cs",
@@ -325,12 +354,11 @@
               "RelativeToolTip": "PruebaMasterLoyalty.API\\Controllers\\VentasController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T00:59:07.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T00:59:07.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.API\\Controllers\\AuthController.cs",
@@ -342,19 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ArticuloController.cs",
-              "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.API\\Controllers\\ArticuloController.cs",
-              "RelativeDocumentMoniker": "PruebaMasterLoyalty.API\\Controllers\\ArticuloController.cs",
-              "ToolTip": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.API\\Controllers\\ArticuloController.cs",
-              "RelativeToolTip": "PruebaMasterLoyalty.API\\Controllers\\ArticuloController.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAApwDMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T14:47:55.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "VentaService.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Business\\Services\\VentaService.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Business\\Services\\VentaService.cs",
@@ -366,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CarritoDetalleDTO.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Entities\\DTOs\\CarritoDetalleDTO.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Entities\\DTOs\\CarritoDetalleDTO.cs",
@@ -378,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AgregarProductoCarritoDTO.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Entities\\DTOs\\AgregarProductoCarritoDTO.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Entities\\DTOs\\AgregarProductoCarritoDTO.cs",
@@ -390,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "RegistroProductoRequest.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.API\\DTOs\\RegistroProductoRequest.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.API\\DTOs\\RegistroProductoRequest.cs",
@@ -402,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ClienteService.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Business\\Services\\ClienteService.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Business\\Services\\ClienteService.cs",
@@ -414,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "IClienteService.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Business\\Interfaces\\IClienteService.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Business\\Interfaces\\IClienteService.cs",
@@ -426,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "TiendaService.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Business\\Services\\TiendaService.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Business\\Services\\TiendaService.cs",
@@ -438,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ITiendaService.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Business\\Interfaces\\ITiendaService.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Business\\Interfaces\\ITiendaService.cs",
@@ -450,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Data\\Entities\\Cliente.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Data\\Entities\\Cliente.cs",
@@ -462,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ClienteRegistroDTO.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Entities\\DTOs\\ClienteRegistroDTO.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Entities\\DTOs\\ClienteRegistroDTO.cs",
@@ -474,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "IArticuloService.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Business\\Interfaces\\IArticuloService.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Business\\Interfaces\\IArticuloService.cs",
@@ -486,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ArticuloService.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Business\\Services\\ArticuloService.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Business\\Services\\ArticuloService.cs",
@@ -498,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Tienda.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Data\\Entities\\Tienda.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Data\\Entities\\Tienda.cs",
@@ -510,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "TiendaDTO.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Entities\\DTOs\\TiendaDTO.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Entities\\DTOs\\TiendaDTO.cs",
@@ -522,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Business\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Business\\Services\\AuthService.cs",
@@ -534,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Business\\Interfaces\\IAuthService.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Business\\Interfaces\\IAuthService.cs",
@@ -546,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "AuthResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Entities\\DTOs\\AuthResponseDTO.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Entities\\DTOs\\AuthResponseDTO.cs",
@@ -558,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Data\\Entities\\Usuario.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Data\\Entities\\Usuario.cs",
@@ -570,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Venta.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Data\\Entities\\Venta.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Data\\Entities\\Venta.cs",
@@ -582,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "IPathProvider.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Business\\Interfaces\\IPathProvider.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Business\\Interfaces\\IPathProvider.cs",
@@ -594,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "WebRootPathProvider.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.API\\Providers\\WebRootPathProvider.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.API\\Providers\\WebRootPathProvider.cs",
@@ -606,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "IVentaService.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Business\\Interfaces\\IVentaService.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Business\\Interfaces\\IVentaService.cs",
@@ -618,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "VentaDTO.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Entities\\DTOs\\VentaDTO.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Entities\\DTOs\\VentaDTO.cs",
@@ -630,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "VentaDetalleDTO.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Entities\\DTOs\\VentaDetalleDTO.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Entities\\DTOs\\VentaDetalleDTO.cs",
@@ -642,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "PaginacionResponse.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Entities\\DTOs\\PaginacionResponse.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Entities\\DTOs\\PaginacionResponse.cs",
@@ -654,7 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "VentasDetalle.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Data\\Entities\\VentasDetalle.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Data\\Entities\\VentasDetalle.cs",
