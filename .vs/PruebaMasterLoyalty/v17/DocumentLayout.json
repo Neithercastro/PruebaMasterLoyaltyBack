@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10B05529-EE4F-469D-9174-5E89E175AE03}|PruebaMasterLoyalty.Business\\PruebaMasterLoyalty.Business.csproj|c:\\users\\oswal\\source\\repos\\pruebamasterloyalty\\pruebamasterloyalty.business\\services\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B05529-EE4F-469D-9174-5E89E175AE03}|PruebaMasterLoyalty.Business\\PruebaMasterLoyalty.Business.csproj|solutionrelative:pruebamasterloyalty.business\\services\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Scripts{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\oswal\\OneDrive\\Documents\\PruebaTecnica_MasterLoyality\\BD_Tienda.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\oswal\\OneDrive\\Documents\\PruebaTecnica_MasterLoyality\\BD_Tienda.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{10B05529-EE4F-469D-9174-5E89E175AE03}|PruebaMasterLoyalty.Business\\PruebaMasterLoyalty.Business.csproj|c:\\users\\oswal\\source\\repos\\pruebamasterloyalty\\pruebamasterloyalty.business\\services\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B05529-EE4F-469D-9174-5E89E175AE03}|PruebaMasterLoyalty.Business\\PruebaMasterLoyalty.Business.csproj|solutionrelative:pruebamasterloyalty.business\\services\\carritoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FB55DD7-8929-4860-A1C3-BE653CD88804}|PruebaMasterLoyalty.API\\PruebaMasterLoyalty.API.csproj|c:\\users\\oswal\\source\\repos\\pruebamasterloyalty\\pruebamasterloyalty.api\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -166,7 +166,7 @@
       "RelativeMoniker": "D:0:0:{7FB55DD7-8929-4860-A1C3-BE653CD88804}|PruebaMasterLoyalty.API\\PruebaMasterLoyalty.API.csproj|solutionrelative:pruebamasterloyalty.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\oswal\\OneDrive\\Documents\\PruebaTecnica_MasterLoyality\\BD_Tienda.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Scripts{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\oswal\\OneDrive\\Documents\\PruebaTecnica_MasterLoyality\\BD_Tienda.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -176,7 +176,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
@@ -206,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CarritoService.cs",
               "DocumentMoniker": "C:\\Users\\oswal\\source\\repos\\PruebaMasterLoyalty\\PruebaMasterLoyalty.Business\\Services\\CarritoService.cs",
               "RelativeDocumentMoniker": "PruebaMasterLoyalty.Business\\Services\\CarritoService.cs",
@@ -285,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BD_Tienda.sql ",
               "DocumentMoniker": "C:\\Users\\oswal\\OneDrive\\Documents\\PruebaTecnica_MasterLoyality\\BD_Tienda.sql",
               "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documents\\PruebaTecnica_MasterLoyality\\BD_Tienda.sql",
@@ -317,8 +317,7 @@
               "RelativeToolTip": "PruebaMasterLoyalty.API\\Controllers\\ArticuloController.cs",
               "ViewState": "AgIAABoAAAAAAAAAAADgvysAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T14:47:55.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T14:47:55.052Z"
             },
             {
               "$type": "Document",
